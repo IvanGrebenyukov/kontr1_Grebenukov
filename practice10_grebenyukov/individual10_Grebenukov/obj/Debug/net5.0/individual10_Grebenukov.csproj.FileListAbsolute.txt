@@ -1,0 +1,16 @@
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\bin\Debug\net5.0\individual10_Grebenukov.exe
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\bin\Debug\net5.0\individual10_Grebenukov.deps.json
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\bin\Debug\net5.0\individual10_Grebenukov.runtimeconfig.json
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\bin\Debug\net5.0\individual10_Grebenukov.runtimeconfig.dev.json
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\bin\Debug\net5.0\individual10_Grebenukov.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\bin\Debug\net5.0\ref\individual10_Grebenukov.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\bin\Debug\net5.0\individual10_Grebenukov.pdb
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\obj\Debug\net5.0\individual10_Grebenukov.csproj.AssemblyReference.cache
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\obj\Debug\net5.0\individual10_Grebenukov.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\obj\Debug\net5.0\individual10_Grebenukov.AssemblyInfoInputs.cache
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\obj\Debug\net5.0\individual10_Grebenukov.AssemblyInfo.cs
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\obj\Debug\net5.0\individual10_Grebenukov.csproj.CoreCompileInputs.cache
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\obj\Debug\net5.0\individual10_Grebenukov.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\obj\Debug\net5.0\ref\individual10_Grebenukov.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\obj\Debug\net5.0\individual10_Grebenukov.pdb
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10_individual\individual10_Grebenukov\obj\Debug\net5.0\individual10_Grebenukov.genruntimeconfig.cache

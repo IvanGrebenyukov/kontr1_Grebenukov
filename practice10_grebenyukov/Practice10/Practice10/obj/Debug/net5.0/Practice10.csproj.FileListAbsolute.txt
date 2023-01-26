@@ -1,0 +1,48 @@
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.exe
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.deps.json
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.runtimeconfig.json
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.runtimeconfig.dev.json
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\bin\Debug\net5.0\ref\Practice10.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.pdb
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.csproj.AssemblyReference.cache
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.AssemblyInfoInputs.cache
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.AssemblyInfo.cs
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.csproj.CoreCompileInputs.cache
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\obj\Debug\net5.0\ref\Practice10.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.pdb
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.genruntimeconfig.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\bin\Debug\net5.0\Practice10.exe
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\bin\Debug\net5.0\Practice10.deps.json
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\bin\Debug\net5.0\Practice10.runtimeconfig.json
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\bin\Debug\net5.0\Practice10.runtimeconfig.dev.json
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\bin\Debug\net5.0\Practice10.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\bin\Debug\net5.0\Practice10.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\Practice10.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\Practice10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\Practice10.AssemblyInfoInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\Practice10.AssemblyInfo.cs
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\Practice10.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\Practice10.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\refint\Practice10.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\Practice10.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\Practice10.genruntimeconfig.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Шарага_2_Курс\Основы_алгоритмизации\Practice10\Practice10\obj\Debug\net5.0\ref\Practice10.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\bin\Debug\net5.0\Practice10.exe
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\bin\Debug\net5.0\Practice10.deps.json
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\bin\Debug\net5.0\Practice10.runtimeconfig.json
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\bin\Debug\net5.0\Practice10.runtimeconfig.dev.json
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\bin\Debug\net5.0\Practice10.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\bin\Debug\net5.0\ref\Practice10.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\bin\Debug\net5.0\Practice10.pdb
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\obj\Debug\net5.0\Practice10.csproj.AssemblyReference.cache
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\obj\Debug\net5.0\Practice10.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\obj\Debug\net5.0\Practice10.AssemblyInfoInputs.cache
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\obj\Debug\net5.0\Practice10.AssemblyInfo.cs
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\obj\Debug\net5.0\Practice10.csproj.CoreCompileInputs.cache
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\obj\Debug\net5.0\Practice10.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\obj\Debug\net5.0\ref\Practice10.dll
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\obj\Debug\net5.0\Practice10.pdb
+\\192.168.200.13\pr305a01\пр-21\Grebenyukov_Ivan_PR-21\Practice10\Practice10\obj\Debug\net5.0\Practice10.genruntimeconfig.cache
